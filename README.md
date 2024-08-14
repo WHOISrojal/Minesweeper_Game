@@ -47,11 +47,7 @@ java -cp bin com.zetcode.Minesweeper
 The game uses a set of images (icons) for rendering the board and game elements. These images are stored in the src/resources/ directory and are loaded during the game's initialization.
 
 
-
-
-
-
-Src Code: All Credits to |||
-http://zetcode.com/javagames/minesweeper/
+Src Code: All Credits to 
+> http://zetcode.com/javagames/minesweeper/
 
 
